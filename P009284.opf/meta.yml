@@ -10,6 +10,7 @@ source_metadata:
       title: ''
       volume_number: 1
       total_pages: 681
+      base_file: v001.txt
     fb2cca6564a04c31a560c1035f205b6f:
       image_group_id: I3CN7546
       title: ''
@@ -20,8 +21,10 @@ source_metadata:
       title: ''
       volume_number: 3
       total_pages: 453
+      base_file: v002.txt
     371c07b6e03c4a3b8884faf6889951e1:
       image_group_id: I3CN7548
       title: ''
       volume_number: 4
       total_pages: 563
+      base_file: v003.txt
